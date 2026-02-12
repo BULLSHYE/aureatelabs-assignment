@@ -27,9 +27,3 @@ Outputs are written to `outputs/backlog.csv` and `outputs/report.md`.
 - Internal link count is a simple count of anchor tags on the page.
 - Canonical is read from `link[rel=canonical]` if present.
 
-## If I had one more day
-
-- Add robots.txt parsing and sitemap ingestion.
-- Improve content extraction (remove nav/footer text, boilerplate).
-- Add structured data and Open Graph checks.
-- Export JSON as well as CSV/Markdown.

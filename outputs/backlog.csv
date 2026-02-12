@@ -1,0 +1,7 @@
+task_id,url,issue_type,priority,why_this_matters,acceptance_criteria
+TASK-001,https://aureatelabs.com/services/ai-seo-agency,meta_description_missing,P1,Descriptions improve SERP click-through rate.,Meta description is present.
+TASK-002,https://aureatelabs.com/services/content-marketing-services,meta_description_missing,P1,Descriptions improve SERP click-through rate.,Meta description is present.
+TASK-003,https://aureatelabs.com/services/conversion-rate-optimization-services,meta_description_missing,P1,Descriptions improve SERP click-through rate.,Meta description is present.
+TASK-004,https://aureatelabs.com/services/ecommerce-copywriting-services,meta_description_missing,P1,Descriptions improve SERP click-through rate.,Meta description is present.
+TASK-005,https://aureatelabs.com/services/email-marketing-services,meta_description_missing,P1,Descriptions improve SERP click-through rate.,Meta description is present.
+TASK-006,https://aureatelabs.com/services/local-seo-services,meta_description_missing,P1,Descriptions improve SERP click-through rate.,Meta description is present.
